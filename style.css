@@ -12,6 +12,13 @@ h1 {
 	color:#ffffff;
 	}
 
+h2 {
+	font-size: 24px;
+	margin-bottom: -5px;
+	text-align: right;
+	color:#ffffff;
+	}
+
 p { color: #aaa; 
 	font-size: 14px; 
 	line-height: 24px; 
