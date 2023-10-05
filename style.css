@@ -25,6 +25,11 @@ p { color: #aaa;
 	margin-bottom: 22px; 
 	-webkit-font-smoothing: antialiased; }
 
+p2 { color: #aaa; 
+	font-size: 14px; 
+	line-height: 24px; 
+	-webkit-font-smoothing: antialiased; }
+
 a { color: #666; 
 	font-weight: bold; 
 	text-decoration: none; 
@@ -45,7 +50,7 @@ a:hover { color: #44bbcc;
 	margin: 0 auto 0 50px !important; }
 
 #talks { 
-	width: 400px; 
+	width: 800px; 
 	padding: 50px 0 0 30px; 
 	margin: 0 auto 0 50px !important; }
 
