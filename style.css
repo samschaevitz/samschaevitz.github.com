@@ -44,6 +44,11 @@ a:hover { color: #44bbcc;
 	padding: 50px 0 0 30px; 
 	margin: 0 auto 0 50px !important; }
 
+#talks { 
+	width: 400px; 
+	padding: 50px 0 0 30px; 
+	margin: 0 auto 0 50px !important; }
+
 #wrapper {
     max-width: 600px;
     min-width: 350px;
